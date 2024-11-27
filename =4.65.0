@@ -1,0 +1,10 @@
+Collecting langchain
+  Downloading langchain-0.3.8-py3-none-any.whl.metadata (7.1 kB)
+Collecting wandb
+  Downloading wandb-0.18.7-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (9.7 kB)
+Collecting openai
+  Downloading openai-1.55.1-py3-none-any.whl.metadata (24 kB)
+Collecting cohere
+  Downloading cohere-5.11.4-py3-none-any.whl.metadata (3.5 kB)
+Collecting tqdm
+  Downloading tqdm-4.67.1-py3-none-any.whl.metadata (57 kB)
